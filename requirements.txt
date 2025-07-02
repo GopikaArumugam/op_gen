@@ -1,0 +1,8 @@
+Flask
+Flask-Mail
+pymongo
+dnspython
+qrcode
+sendgrid
+certifi
+pillow
